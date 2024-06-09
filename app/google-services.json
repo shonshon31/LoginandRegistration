@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167902878965",
+    "project_id": "login-coffee-3968e",
+    "storage_bucket": "login-coffee-3968e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167902878965:android:27e9bd124063c873f1b9bc",
+        "android_client_info": {
+          "package_name": "com.example.loginandregistration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC367YcuRMoofqXhQ0iEQRZF0BOY8bTtxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
